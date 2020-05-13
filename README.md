@@ -1,5 +1,12 @@
-# project
-Skin Lesion Classification part1
-reference:
-https://github.com/IFL-CAMP/SLClassificationAnEducationalCode-MEC2019
-https://medium.com/miccai-educational-initiative/skin-cancer-image-classification-an-educational-guide-2a043a1beb59
+# Projects  
+Tweet sentiment extraction: work in progress
+
+# Conceptual projects
+Linear Regression
+ Linear Regression 1 - Sales Advertisement dataset
+ Linear Regression 2- Sales Advertisement Dataset - model code
+ Multi Linear Regression 1 - Sales Advertisement Dataset
+ Multi Linear Regression 2 - Sales Advertisement Dataset - model code
+ Multi Linear Regression 3 -Credit dataset - Categorical variable
+
+Logistic Regression: work in progress
